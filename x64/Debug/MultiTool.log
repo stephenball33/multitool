@@ -1,0 +1,8 @@
+﻿  noughtsAndCrosses.c
+  program.c
+  unitConverter.c
+  Generating Code...
+  noughtsAndCrosses.h
+x64\Debug\noughtsAndCrosses.obj : warning LNK4042: object specified more than once; extras ignored
+program.obj : error LNK2019: unresolved external symbol noughtsAndCrosses referenced in function main
+C:\Users\Stephen Ball\source\repos\MultiTool\x64\Debug\MultiTool.exe : fatal error LNK1120: 1 unresolved externals
